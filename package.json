@@ -28,7 +28,7 @@
     "agora-access-token": "^2.0.4",
     "agora-rtc-sdk-ng": "^4.15.0",
     "autolinker": "^4.0.0",
-    "axios": "^1.2.0",
+    "axios": "^1.6.0",
     "buffer": "^6.0.3",
     "luxon": "^3.2.1",
     "nl2br": "^0.0.3",
